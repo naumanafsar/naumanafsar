@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a ASP.NET ERP
 - 🌱 I’m currently learning Elixir Phoenix
-- 💬 Ask me about NodeJs
+- 💬 Ask me about Linux
